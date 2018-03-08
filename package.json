@@ -30,7 +30,7 @@
     "bdns": "~0.0.1",
     "bevent": "~0.0.1",
     "bfile": "~0.0.1",
-    "bfilter": "~0.0.1",
+    "bfilter": "thann/bfilter",
     "binet": "~0.0.1",
     "blgr": "~0.0.1",
     "bmutex": "~0.0.1",
